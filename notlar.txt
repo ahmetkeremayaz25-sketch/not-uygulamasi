@@ -1,0 +1,6 @@
+﻿Hafta 1 - Linux Komutları
+ls    : Klasördeki dosyaları listeler
+cd    : Klasör değiştirir
+pwd   : Bulunduğum dizini gösterir
+mkdir : Yeni klasör oluşturur
+cat   : Dosya içeriğini ekrana yazdırır
