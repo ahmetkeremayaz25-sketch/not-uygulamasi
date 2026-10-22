@@ -11,3 +11,4 @@ git add    : Değişiklikleri staging'e alır
 git commit : Staging'dekileri kaydeder
 git status : Dosyaların durumunu gösterir
 git log    : Commit geçmişini listeler
+Hafta 2 notları gözden geçirildi
