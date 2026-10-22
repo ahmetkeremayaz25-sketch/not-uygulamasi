@@ -4,3 +4,10 @@ cd    : Klasör değiştirir
 pwd   : Bulunduğum dizini gösterir
 mkdir : Yeni klasör oluşturur
 cat   : Dosya içeriğini ekrana yazdırır
+
+Hafta 2 - Git Komutları
+git init   : Yeni Git reposu başlatır
+git add    : Değişiklikleri staging'e alır
+git commit : Staging'dekileri kaydeder
+git status : Dosyaların durumunu gösterir
+git log    : Commit geçmişini listeler
